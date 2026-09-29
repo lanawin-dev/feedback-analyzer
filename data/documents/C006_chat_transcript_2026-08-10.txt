@@ -1,0 +1,32 @@
+Support chat — Fernwood Media Group
+Agent: Aisha B. (Support)
+Client: Tom Reilly (Head of Operations)
+
+Agent: Hi Tom, how can I help today?
+Client: Hey Aisha, our helpdesk is drowning in password reset requests for this platform, wanted to see if there's a fix.
+Agent: How many resets are we talking about roughly?
+Client: Maybe 8-10 a week across the team, mostly people forgetting since it's not the same login as everything else we use.
+Agent: Got it. Out of curiosity, what do you use for your main company login, like email and other tools?
+Client: We're a Google Workspace shop for most things, some newer tools use Okta though.
+Agent: That's helpful context. Are you looking for something like "log in with Google" or a full SSO setup through an identity provider?
+Client: I think either would help honestly, whatever cuts down the reset tickets. Ideally something our IT person doesn't have to manually manage per employee.
+Agent: Understood, I'll log this as a feature request for federated login, noting Google Workspace as your primary option.
+Client: Appreciate it. Is this something other customers ask for too?
+Agent: I can't share specifics on other accounts, but I can say it's a common theme in feedback generally.
+Client: Makes sense. Separately, a few of our editors mentioned they'd like Slack notifications when a doc gets a comment, instead of checking email.
+Agent: That's a good one too, I'll add that as a separate feature request.
+Client: Thanks. Overall we're pretty happy, this is more "would be nice" than "broken."
+Agent: Good to hear. I'll get both requests logged properly.
+Client: Appreciate it, Aisha.
+Agent: While I have you — how's the new video review workflow working out? I know that shipped last month.
+Client: Actually really well, our editors like being able to leave timestamped comments directly on the clip instead of a separate spreadsheet.
+Agent: Great to hear, that feature got a lot of internal debate before launch.
+Client: Worth it on our end. One tiny thing — the timestamp comments don't show up in the email digest, only in-app.
+Agent: Ah, that might be related to the Slack notification request actually, similar gap.
+Client: Good point, maybe bundle those together then.
+Agent: I will, that makes sense as one workflow-notifications request.
+Client: Perfect. That's everything from me today.
+Agent: Sounds good, I'll follow up once I have movement on the login and notifications requests.
+Client: Appreciate it, Aisha.
+Agent: Anytime, let me know if the reset volume gets worse in the meantime.
+Client: Will do, thanks again.

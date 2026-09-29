@@ -1,0 +1,35 @@
+Support chat — Nimbus Retail Group
+Agent: Sarah T. (Support)
+Client: Mike Chen (Operations Manager)
+
+Agent: Hi Mike! Thanks for reaching out, how can I help today?
+Client: Hey Sarah, quick one — I'm trying to pull last quarter's full transaction report but the export button just spins forever.
+Agent: Got it, let me check that for you. Roughly how many rows are we talking about?
+Client: Probably close to 400k rows, it's our busiest quarter.
+Agent: That'll do it — exports over ~250k rows go through a slower background queue instead of the instant download. It should land in your email within 10-15 minutes.
+Client: Ah okay, that makes sense. Good to know, I was worried it was broken.
+Agent: Totally understandable, the spinner probably should say something more useful there.
+Client: Yeah honestly that's my only real gripe with the whole platform, the large exports always feel a bit opaque.
+Agent: Noted, I'll pass that along to the product team as feedback on the export UX.
+Client: Appreciate it. Other than that we've been really happy since the Q2 rollout.
+Agent: That's great to hear! How's the team finding the new dashboard views?
+Client: Honestly a huge improvement, our regional managers actually log in now instead of asking me for screenshots.
+Agent: Love that. Anything you wish the dashboards did that they don't right now?
+Client: One thing — it'd be nice to schedule a report to auto-send every Monday morning instead of me manually exporting it.
+Agent: That's a great idea, I don't think we have that yet but I'll flag it as a feature request.
+Client: Cool, no rush, it's a nice-to-have not a blocker.
+Agent: Understood. While I have you — did the onboarding for the two new analysts go smoothly last month?
+Client: Yes, actually really smooth. Your onboarding specialist was great, answered everything in one call.
+Agent: Glad to hear it, I'll pass that along too.
+Client: Do you know when the report finished processing? Just want to make sure I'm not waiting on nothing.
+Agent: Checking now... yes, it completed 3 minutes ago, should be in your inbox.
+Client: Got it, I see it now. Numbers look right, thank you.
+Agent: Perfect. Anything else I can help with today?
+Client: No that's it. Thanks for the quick help as always.
+Agent: Anytime, Mike. Have a great rest of your week.
+Client: You too, Sarah.
+Agent: Before you go — we're doing a customer advisory call next month about the reporting roadmap, would Nimbus want a seat?
+Client: Definitely, send me the invite, I'd like to bring our analytics lead too.
+Agent: Will do, I'll email both of you the details.
+Client: Sounds good, talk soon.
+Agent: Take care!

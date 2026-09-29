@@ -1,0 +1,63 @@
+Subject: Re: Calendar sync issue — any update?
+
+From: Robert Vale <robert@anchorandvale.example>
+To: Tasha Moreno <tasha.moreno@ourplatform.example>
+Date: 2026-08-15
+
+Hi Tasha,
+
+Checking in on the calendar sync issue from a couple weeks ago — it
+dropped another meeting last week, which is now three total. Starting to
+plan around it manually which defeats the point a bit.
+
+Also, unrelated, but is there a way to get a plain-language summary on
+the invoice instead of the itemized breakdown? I don't need the detail,
+just a total and what changed.
+
+Thanks,
+Robert
+
+---
+
+From: Tasha Moreno <tasha.moreno@ourplatform.example>
+To: Robert Vale <robert@anchorandvale.example>
+Date: 2026-08-16
+
+Hi Robert,
+
+Sorry for the delay — the integrations team looked into it and found the
+sync token expires when a session drops (same root cause as the mobile
+app logout issue you mentioned before). A proper fix is planned for next
+month's release; in the meantime, re-authenticating the calendar
+connection every couple weeks should reduce the drops.
+
+On the invoice — no simplified summary view today, but I've added it to
+our billing feedback list alongside the proration line-item note from
+before.
+
+Tasha
+
+---
+
+From: Robert Vale <robert@anchorandvale.example>
+To: Tasha Moreno <tasha.moreno@ourplatform.example>
+Date: 2026-08-17
+
+Got it, I'll re-auth in the meantime, thanks for digging into the root
+cause. Good to know it's connected to the app logout thing, at least it's
+one problem instead of two.
+
+Appreciate the help as always.
+
+Robert
+
+---
+
+From: Tasha Moreno <tasha.moreno@ourplatform.example>
+To: Robert Vale <robert@anchorandvale.example>
+Date: 2026-08-18
+
+Happy to help! I'll follow up once the fix ships next month and let you
+know if you can drop the manual re-auth workaround.
+
+Tasha

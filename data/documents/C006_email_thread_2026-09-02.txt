@@ -1,0 +1,62 @@
+Subject: Re: Login/notifications requests — any movement?
+
+From: Tom Reilly <tom.reilly@fernwoodmedia.example>
+To: Aisha Bello <aisha.bello@ourplatform.example>
+Date: 2026-08-29
+
+Hi Aisha,
+
+Checking in on the two things from a few weeks back — the login request
+(cutting down on password reset tickets, ideally via Google Workspace or
+a proper SSO setup) and the notifications bundle (Slack + email digest
+for comments).
+
+Reset tickets are still averaging around 8 a week on our end, so this
+would genuinely help our small IT team's workload.
+
+Tom
+
+---
+
+From: Aisha Bello <aisha.bello@ourplatform.example>
+To: Tom Reilly <tom.reilly@fernwoodmedia.example>
+Date: 2026-08-31
+
+Hi Tom,
+
+Thanks for checking in. Status:
+
+- Federated login / SSO: logged as a feature request, currently
+  unscheduled on the roadmap. I noted your preference for Google
+  Workspace support specifically.
+- Notification bundling (Slack + email digest for comments): also logged,
+  unscheduled.
+
+I don't have firm dates for either yet, but I flagged the helpdesk ticket
+volume you mentioned as a concrete business impact, which tends to help
+these get prioritized over vaguer requests.
+
+Aisha
+
+---
+
+From: Tom Reilly <tom.reilly@fernwoodmedia.example>
+To: Aisha Bello <aisha.bello@ourplatform.example>
+Date: 2026-09-01
+
+That makes sense, appreciate the transparency. No complaints on our end
+about the product itself, this is really just an operational
+nice-to-have for us at this point.
+
+Tom
+
+---
+
+From: Aisha Bello <aisha.bello@ourplatform.example>
+To: Tom Reilly <tom.reilly@fernwoodmedia.example>
+Date: 2026-09-02
+
+Glad to hear it, and thanks for the patience. I'll check back in once I
+have anything concrete to share on either request.
+
+Aisha

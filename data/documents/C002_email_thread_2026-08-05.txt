@@ -1,0 +1,77 @@
+Subject: Re: Re: WMS integration ticket #48213 — status?
+
+From: Priya Nair <priya.nair@cedarlinelogistics.example>
+To: Support Team <support@ourplatform.example>
+Date: 2026-08-01
+
+Hi team,
+
+Checking in again on ticket #48213 (WMS integration, submitted June 26th).
+It's now been over five weeks with no real movement beyond "still with
+engineering." Our warehouse staff are manually re-entering shipment data
+between systems every day, which is exactly what this integration was
+supposed to prevent when we signed up for the Pro plan.
+
+Can someone give me a real timeline, even if it's not the answer I want?
+
+Priya
+IT Manager, Cedarline Logistics
+
+---
+
+From: Daniel Reyes <daniel.reyes@ourplatform.example>
+To: Priya Nair <priya.nair@cedarlinelogistics.example>
+Date: 2026-08-02
+
+Hi Priya,
+
+I completely understand the frustration and I apologize for the lack of
+clear communication on this. I've escalated directly with the
+integrations lead and pushed for a firm date rather than "in progress."
+
+I'll have a concrete answer for you by Wednesday at the latest.
+
+Also wanted to flag — I saw the two outage tickets from July on your
+account as well. I know that combined with this integration delay paints
+a rough picture of the last couple months, and I don't want that to go
+unacknowledged.
+
+Daniel
+
+---
+
+From: Priya Nair <priya.nair@cedarlinelogistics.example>
+To: Daniel Reyes <daniel.reyes@ourplatform.example>
+Date: 2026-08-04
+
+Appreciate the acknowledgment, genuinely. To be candid, between the
+outages, this integration delay, and the pricing change that took effect
+in April, I'm getting questions from my director about whether this is
+still the right platform for us long-term.
+
+I'd rather raise that directly than let it stay unsaid. What's the
+Wednesday update looking like?
+
+Priya
+
+---
+
+From: Daniel Reyes <daniel.reyes@ourplatform.example>
+To: Priya Nair <priya.nair@cedarlinelogistics.example>
+Date: 2026-08-05
+
+Priya,
+
+Thank you for being direct, it's genuinely helpful. Update: engineering
+has scoped the WMS integration work and estimates 3-4 weeks to ship a
+first version behind a feature flag we can turn on for your account
+specifically.
+
+I've also flagged your account internally given the reliability issues in
+July — you should be hearing from our Customer Success team soon about a
+broader check-in, separate from this ticket.
+
+I know "3-4 weeks" isn't the immediate fix you were hoping for, but I
+wanted to give you a real number rather than another "soon."
+
+Daniel

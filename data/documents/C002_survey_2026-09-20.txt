@@ -1,0 +1,24 @@
+Customer Satisfaction Survey — Cedarline Logistics
+Respondent: Priya Nair (IT Manager)
+Date: 2026-09-20
+
+CSAT (1-5): 2
+
+Q1: What's working well for your team right now?
+A1: When it's up and running, the core dispatch view does what we need.
+Support staff individually (Daniel especially) have been responsive and
+honest with us, that part I don't want to lose in the rest of this
+feedback.
+
+Q2: What's the biggest friction point, if any?
+A2: Reliability. We've had three significant outages this quarter during
+active shifts, which for a logistics operation means trucks and drivers
+sitting idle with no visibility. Combined with a pricing increase earlier
+in the year, it's hard to justify internally right now.
+
+Q3: Is there anything you wish the product could do that it can't today?
+A3: The warehouse management system integration we requested back in June
+is still not live. Our team is manually double-entering shipment data
+every day because of it. At this point we are actively looking at other
+platforms, mainly because of the combination of downtime and this
+integration gap — not because of any one single issue.

@@ -1,0 +1,26 @@
+Support chat — Cedarline Logistics
+Agent: Daniel R. (Support)
+Client: Priya Nair (IT Manager)
+
+Agent: Hi Priya, I saw your message came in as urgent — what's going on?
+Client: We had a third outage this quarter last night. Dispatch was down for almost an hour during our evening shift.
+Agent: I'm very sorry, let me look at the incident report right away.
+Client: I don't really need the report this time, Daniel. I need to know if this is just how the platform runs now.
+Agent: I hear you, and I don't want to downplay it — three incidents in a quarter is not the standard we hold ourselves to.
+Client: We've also still never gotten a real fix on the WMS integration from back in June. It's October in a few weeks and it's still manual.
+Agent: That ticket did get reprioritized, but I understand it's been slower than expected.
+Client: Honestly, I've started scoping two competitor platforms with my director. I'm not hiding that from you.
+Agent: I appreciate you being upfront. Can I ask what's driving that specifically — is it mainly reliability, or the integration gap, or both?
+Client: Both, plus the price increase in the spring landed right when reliability got worse, which is a bad combination optically for us internally.
+Agent: That's completely fair feedback and I want to make sure leadership on our side hears it directly, not filtered through a support ticket.
+Client: I'd be open to a call with someone senior, but I'm not going to pretend we're not actively evaluating alternatives right now.
+Agent: Understood. Let me get our VP of Customer Success looped in this week rather than next.
+Client: That would be appreciated. To be clear, I don't want to leave — we've built a lot of workflow around this platform. But I need to see stability and I need the WMS piece actually shipped.
+Agent: That's very useful context and I'll make sure it's communicated exactly like that.
+Client: Our contract renewal window opens in November, for reference.
+Agent: Thank you for flagging the timeline, that helps us prioritize appropriately.
+Client: I just don't want another quarter like this one.
+Agent: Understood completely. I'll have someone senior reach out within 48 hours, and I'll personally push on the WMS ticket status today.
+Client: Okay. I'll wait to hear back.
+Agent: Thank you for your patience, Priya, and again, I'm sorry about last night.
+Client: Talk soon.

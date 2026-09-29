@@ -1,0 +1,27 @@
+Support chat — Brightpath Health Partners
+Agent: Jordan K. (Support)
+Client: Elaine Foster (Senior Program Coordinator)
+
+Agent: Good morning Elaine, how can I help today?
+Client: Morning Jordan! Quick question when you have a moment — not urgent at all.
+Agent: Of course, go ahead.
+Client: We onboarded two new care coordinators this week and I wanted to set up their permissions, but I got a bit lost in the roles screen. Not a big deal, I just wasn't sure which role fits.
+Agent: Happy to walk through it. What do you need them to access specifically?
+Client: They need to see client case notes but shouldn't be able to edit billing information.
+Agent: That would be the "Care Staff" role, it has read access to case notes and no billing visibility.
+Client: Perfect, thank you. Honestly the permission names aren't always obvious to me, but that's probably just something I'll get used to.
+Agent: I appreciate the feedback, that's useful for us to know actually.
+Client: It's a minor thing, really. The bigger thing on my mind — and again, no rush on this — is that our compliance team asked if there's a way for staff to log in with their existing hospital network credentials rather than a separate password.
+Agent: You mean something like single sign-on through your identity provider?
+Client: Exactly that, yes. They mentioned it a couple of times now during our internal audits. I don't think it's urgent on your end, just something they keep circling back to.
+Agent: I'll log that as a feature request on your account. Do you know if they have a specific provider, like Okta or Azure AD?
+Client: I believe Azure AD, I can confirm with our IT director if that helps prioritize it.
+Agent: That would be great, thank you.
+Client: Also, completely separate — is there any way to export an audit log of who viewed which case file? Our compliance officer asked about that too, for our annual review.
+Agent: Let me check... currently we don't have a self-serve export for that, but I can raise it as a request.
+Client: No worries at all, I figured I'd ask while I had you. We can work around it for now.
+Agent: I'll make sure both of these get logged properly so they don't get lost.
+Client: Thank you so much, Jordan, you're always so helpful.
+Agent: Happy to help. Anything else today?
+Client: That's everything, thank you again!
+Agent: Take care, Elaine.

@@ -1,0 +1,68 @@
+Subject: Re: Following up on a couple of open items
+
+From: Elaine Foster <elaine.foster@brightpathhealth.example>
+To: Jordan Kim <jordan.kim@ourplatform.example>
+Date: 2026-08-22
+
+Hi Jordan,
+
+Hope you're doing well! Just following up gently on the two things from
+our chat a few weeks back — totally understand if these are still in
+queue, just wanted to keep them visible on our end for our own tracking.
+
+1. Single sign-on with our Azure AD (our IT director confirmed this is
+   indeed the provider they'd want to use).
+2. Audit log export for case file views, for our compliance reviews.
+
+Also, a smaller thing that's come up a couple of times since then — a few
+of our newer coordinators have mentioned the permissions screen is a
+little confusing when setting up new staff. Nothing urgent, just flagging
+the pattern in case it's useful.
+
+Thanks as always,
+Elaine
+
+---
+
+From: Jordan Kim <jordan.kim@ourplatform.example>
+To: Elaine Foster <elaine.foster@brightpathhealth.example>
+Date: 2026-08-24
+
+Hi Elaine,
+
+Thank you for the patience and for keeping track of these — really
+helpful to have them written down.
+
+Status:
+1. SSO/Azure AD — this is with our product team, currently unscheduled
+   but on the roadmap radar. I don't have a firm date yet.
+2. Audit log export — logged as a feature request, also unscheduled.
+
+I hear you on the permissions screen too, I'll bundle that as UX feedback
+alongside the other two.
+
+I know "unscheduled" isn't the most satisfying answer, especially since
+you've now asked about a couple of these more than once. I want to make
+sure it's clear these are being tracked, not lost.
+
+Jordan
+
+---
+
+From: Elaine Foster <elaine.foster@brightpathhealth.example>
+To: Jordan Kim <jordan.kim@ourplatform.example>
+Date: 2026-08-25
+
+Not a problem at all, I know these things take time and I appreciate you
+being upfront about it. I'll just keep an eye out.
+
+One more small note, if it's helpful for your tracking: our compliance
+officer mentioned during our internal review last week that the SSO piece
+in particular is becoming more of a "when, not if" for us, given some
+broader hospital-system requirements coming down from our leadership.
+Not trying to add pressure, just sharing context in case timing helps.
+
+Thanks again for all your help these past months, it's genuinely
+appreciated.
+
+Elaine

@@ -1,0 +1,99 @@
+{
+  "C001": {
+    "company_name": "Nimbus Retail Group",
+    "overall_sentiment": "positive",
+    "sentiment_trend": "stable",
+    "churn_risk": "low",
+    "pain_points": [
+      "Large report exports (300k+ rows) show only a spinner with no progress indicator, feels opaque",
+      "No way to schedule/automate recurring report delivery, requires manual weekly export"
+    ],
+    "feature_requests": [
+      "Scheduled/recurring report delivery (e.g. weekly auto-send to a distribution list)",
+      "Progress indicator for large report exports"
+    ],
+    "notes": "Consistently happy customer across all three documents. Complaints are phrased as minor UX nice-to-haves, not blockers. Good candidate for expansion/advocacy, invited to customer advisory call."
+  },
+  "C002": {
+    "company_name": "Cedarline Logistics",
+    "overall_sentiment": "negative",
+    "sentiment_trend": "declining",
+    "churn_risk": "high",
+    "pain_points": [
+      "Repeated platform outages/downtime (three incidents in one quarter) disrupting live dispatch operations",
+      "WMS (warehouse management system) integration ticket open for months, forcing manual double data entry",
+      "Pricing increase earlier in the year compounding dissatisfaction with reliability issues",
+      "Clunky onboarding/permission setup for the new warehouse module"
+    ],
+    "feature_requests": [
+      "Reliable integration with their WMS (warehouse management system)",
+      "Improved platform uptime / reliability (implicit SLA expectation)"
+    ],
+    "notes": "Explicit churn signals: client states they are actively evaluating competitor platforms and that renewal window opens in November. Sentiment is openly negative by the final chat transcript, despite acknowledging individual support reps are helpful."
+  },
+  "C003": {
+    "company_name": "Brightpath Health Partners",
+    "overall_sentiment": "superficially positive / underlying negative (silent decline)",
+    "sentiment_trend": "declining",
+    "churn_risk": "medium, rising",
+    "pain_points": [
+      "Permissions/roles screen is confusing for less technical or newer staff during onboarding",
+      "No self-serve audit log export for compliance reviews",
+      "No SSO / centralized login via Azure AD, repeatedly requested but unscheduled",
+      "Same requests raised multiple times over months with no resolution, despite polite tone"
+    ],
+    "feature_requests": [
+      "Single sign-on / login via corporate Azure AD account (also phrased as 'log in with existing hospital network credentials')",
+      "Self-serve audit log export of who viewed which case file",
+      "Clearer/simplified permissions and roles screen"
+    ],
+    "notes": "This is the 'silent churn' profile: language stays polite and grateful throughout ('no rush', 'not urgent', 'appreciate you'), but CSAT drops from 5 (June) to 3 (September) and the same unresolved requests keep resurfacing with increasing internal pressure (compliance team, hospital-system leadership). A sentiment model reading only tone/politeness would miss the risk; the risk shows in repetition and CSAT trend, not word choice."
+  },
+  "C004": {
+    "company_name": "Anchor & Vale Consulting",
+    "overall_sentiment": "mixed, leaning positive",
+    "sentiment_trend": "stable",
+    "churn_risk": "low",
+    "pain_points": [
+      "Mobile app randomly logs user out when switching networks",
+      "Calendar sync drops meetings, linked to the same session-expiry root cause as the mobile logout issue",
+      "Itemized invoices are more detailed than needed, proration charges were confusing initially"
+    ],
+    "feature_requests": [
+      "Dark mode for late-night use",
+      "Simplified, non-itemized invoice summary view"
+    ],
+    "notes": "Small solo-consultant account. Genuine but low-severity complaints; overall relationship is healthy and CSAT is 4/5. Root cause of two separate-seeming complaints (mobile logout + calendar sync) turned out to be the same session-expiry bug."
+  },
+  "C005": {
+    "company_name": "Solstice Manufacturing Co",
+    "overall_sentiment": "mixed, leaning positive",
+    "sentiment_trend": "stable to slightly improving",
+    "churn_risk": "medium if SSO request stalls further, tied to renewal timing",
+    "pain_points": [
+      "Manual, one-by-one user account creation was time-consuming before bulk import was discovered",
+      "Year-over-year reporting dashboards slow to load (15-20 seconds) with a full year of production data",
+      "No centralized authentication (SSO) via their Okta identity provider, flagged as a high-priority finding in an internal security/compliance audit"
+    ],
+    "feature_requests": [
+      "Single sign-on through corporate identity provider (Okta)",
+      "Performance improvement for large-dataset reporting dashboards"
+    ],
+    "notes": "SSO request here is framed as a compliance/security-audit requirement, not a convenience, and the client explicitly links a slow resolution to renewal risk. Same underlying feature request as C003 and C006 (SSO / centralized login), phrased differently each time, which is intentional for testing feature-request clustering."
+  },
+  "C006": {
+    "company_name": "Fernwood Media Group",
+    "overall_sentiment": "positive, leaning mixed on operational friction",
+    "sentiment_trend": "stable",
+    "churn_risk": "low",
+    "pain_points": [
+      "High volume of password reset helpdesk tickets (8-10/week) because login isn't tied to company Google Workspace account",
+      "Comment/collaboration notifications only appear in-app, not via Slack or email digest"
+    ],
+    "feature_requests": [
+      "Federated login / SSO, specifically 'log in with Google' (Google Workspace) or a general identity-provider integration",
+      "Slack notifications or email digest for document comment activity"
+    ],
+    "notes": "Third client requesting the same underlying capability (SSO/centralized login) as C003 and C005, framed here as an operational helpdesk-burden problem rather than compliance. Useful for testing whether an analysis pipeline correctly clusters 'SSO', 'Azure AD login', 'Okta integration', and 'log in with Google' as the same feature request."
+  }
+}

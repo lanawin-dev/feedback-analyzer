@@ -1,0 +1,21 @@
+Customer Satisfaction Survey — Fernwood Media Group
+Respondent: Tom Reilly (Head of Operations)
+Date: 2026-09-18
+
+CSAT (1-5): 4
+
+Q1: What's working well for your team right now?
+A1: The new video review workflow with timestamped comments has been a
+genuine win for our editors, and support has been consistently friendly
+and clear whenever we reach out.
+
+Q2: What's the biggest friction point, if any?
+A2: Password resets — since login isn't tied to our Google Workspace
+account, our small IT team handles roughly 8-10 reset tickets a week for
+this platform alone. Not a dealbreaker, just an ongoing operational drag.
+
+Q3: Is there anything you wish the product could do that it can't today?
+A3: Login through our existing Google Workspace account (or a proper SSO
+option) would remove most of the reset ticket volume. Also would love
+Slack notifications, or at least email digests, for comment activity
+instead of having to check in-app.

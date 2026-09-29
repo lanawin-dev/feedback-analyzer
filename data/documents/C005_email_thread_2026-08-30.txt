@@ -1,0 +1,67 @@
+Subject: Re: Security review follow-up — centralized auth
+
+From: Linda Park <linda.park@solsticemfg.example>
+To: Marcus Owens <marcus.owens@ourplatform.example>
+Date: 2026-08-27
+
+Hi Marcus,
+
+Following up on the centralized authentication item from our security
+review a while back. My director asked me for a status update this week,
+so wanted to check where this landed on your side.
+
+To restate clearly for anyone else looking at this: we need users to
+authenticate through our existing Okta setup rather than maintaining
+separate passwords in your platform. This was flagged as a high-priority
+finding in our last audit cycle.
+
+Linda
+
+---
+
+From: Marcus Owens <marcus.owens@ourplatform.example>
+To: Linda Park <linda.park@solsticemfg.example>
+Date: 2026-08-28
+
+Hi Linda,
+
+Thanks for the follow-up. This is logged on our end as a feature request
+for SSO/Okta integration. I checked with our product team — it's on the
+roadmap but doesn't have a committed date yet. I know that's not the
+concrete answer you're looking for.
+
+I want to flag this internally with the audit context you gave me, since
+that's a stronger signal than a typical request. I'll push for a clearer
+timeline and get back to you.
+
+Marcus
+
+---
+
+From: Linda Park <linda.park@solsticemfg.example>
+To: Marcus Owens <marcus.owens@ourplatform.example>
+Date: 2026-08-29
+
+Understood, appreciate you pushing on it. If it helps prioritize — this
+is the kind of finding that could affect our renewal conversation if it
+drags on too long into next year, just being transparent about that.
+
+In the meantime the bulk user import tip from last time has been a big
+help, so at least that part's solved.
+
+Linda
+
+---
+
+From: Marcus Owens <marcus.owens@ourplatform.example>
+To: Linda Park <linda.park@solsticemfg.example>
+Date: 2026-08-30
+
+Really glad the bulk import is working out. I've shared your renewal
+timing context with the product team directly so it's weighed
+appropriately alongside the other SSO requests we have queued from other
+accounts.
+
+I'll check back in with a concrete update within the next few weeks.
+
+Marcus

@@ -1,0 +1,29 @@
+Support chat — Cedarline Logistics
+Agent: Daniel R. (Support)
+Client: Priya Nair (IT Manager)
+
+Agent: Hi Priya, thanks for waiting — sorry about the queue today.
+Client: It's fine. We had another outage this morning, second one this month. Dispatch couldn't see live routes for almost 40 minutes.
+Agent: I'm really sorry to hear that. Let me pull up the incident log for this morning.
+Client: This is becoming a pattern for us, not gonna lie.
+Agent: I understand the frustration. I see the incident — it was resolved at 9:47am, root cause listed as a database failover issue.
+Client: Right, and last time it was "elevated load on the reporting cluster." Different label, same result — our drivers sitting idle.
+Agent: That's fair. I'll escalate this to engineering with your account flagged as impacted twice this month.
+Client: We run a logistics operation, Daniel. Forty minutes of no visibility means trucks literally not moving. That has a real dollar cost for us.
+Agent: Completely understand. Is there a way I can get you a summary write-up of both incidents for your internal reporting?
+Client: Yes please, that would help when I talk to my director about this.
+Agent: I'll have that to you by end of day.
+Client: Thanks. Separately — we've also been waiting almost two weeks on the ticket about connecting this to our WMS system.
+Agent: Let me check that ticket number.
+Client: It's #48213, submitted June 26th.
+Agent: I see it, it's currently with our integrations team, marked medium priority.
+Client: Can it be bumped? Our warehouse team is basically double-entering data right now because the sync doesn't work reliably.
+Agent: I'll ask my lead to review the priority given the outage context, but I can't promise a timeline change myself.
+Client: Understood, I just need something to tell my team.
+Agent: I'll follow up on both the incident summary and the integration ticket by tomorrow.
+Client: Okay. Also small thing, the onboarding for our new warehouse module still feels clunky, half the team didn't understand the permission setup.
+Agent: Noted, I'll pass that along as feedback too.
+Client: Appreciate it. I just want some of this stabilized before renewal conversations start.
+Agent: Understood, I'll make sure this is all documented on our end.
+Client: Thanks Daniel.
+Agent: Talk soon, and again, sorry for the disruption this morning.

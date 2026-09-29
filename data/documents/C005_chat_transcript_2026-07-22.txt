@@ -1,0 +1,23 @@
+Support chat — Solstice Manufacturing Co
+Agent: Marcus O. (Support)
+Client: Linda Park (IT Systems Administrator)
+
+Agent: Hi Linda, thanks for reaching out, what's going on?
+Client: Hey Marcus. Two things today. First, we onboarded 15 new shop-floor supervisors this month and manually creating each account is eating a ton of my time.
+Agent: Understood, are you using the CSV bulk import feature under Admin > Users?
+Client: I didn't realize that existed, let me check... oh, that would've saved me hours. Thank you.
+Agent: Glad that helps. What's the second thing?
+Client: Our annual security review just wrapped and one of the findings was that we don't have centralized authentication for this platform — everyone has separate passwords instead of going through our corporate identity provider.
+Agent: Got it, so you'd want single sign-on set up so logins go through your IdP instead of standalone passwords?
+Client: Exactly. We use Okta company-wide for basically everything else.
+Agent: I'll log that as a feature request tied to your account. Do you know if this is a hard requirement or a recommendation from the review?
+Client: It's listed as "high priority" in the findings, so my boss is going to ask about it. Not immediately blocking, but I'd like to have an answer.
+Agent: Understood, I'll make sure it's flagged with that context, not just a generic request.
+Client: Appreciate it. Also, separate small thing, some of our reporting dashboards take a while to load when we pull a full year of production data.
+Agent: How long is "a while"?
+Client: Like 15-20 seconds sometimes, not broken, just slow enough people notice.
+Agent: Noted, I'll pass that to engineering as a performance report.
+Client: Thanks. Between the bulk import tip and getting these logged, this was a productive call.
+Agent: Glad I could help. I'll follow up once I hear back on the SSO timeline.
+Client: Sounds good, talk soon.
+Agent: Take care, Linda.

@@ -1,0 +1,21 @@
+Customer Satisfaction Survey — Brightpath Health Partners
+Respondent: Elaine Foster (Senior Program Coordinator)
+Date: 2026-06-15
+
+CSAT (1-5): 5
+
+Q1: What's working well for your team right now?
+A1: Overall really positive experience. The case note system has made
+coordination between our care teams much smoother, and support has always
+been quick to respond when we've had questions.
+
+Q2: What's the biggest friction point, if any?
+A2: Nothing major comes to mind. Maybe the permissions/roles screen could
+be a little clearer for staff who are less technical, but it's a small
+thing.
+
+Q3: Is there anything you wish the product could do that it can't today?
+A3: Not really, we're happy with where things stand. If anything, it
+would be nice long-term to log in with our hospital network credentials
+instead of a separate password, but that's more of a convenience thing
+than a real problem right now.

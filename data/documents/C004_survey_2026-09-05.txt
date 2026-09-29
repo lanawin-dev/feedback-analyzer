@@ -1,0 +1,21 @@
+Customer Satisfaction Survey — Anchor & Vale Consulting
+Respondent: Robert Vale (Founder)
+Date: 2026-09-05
+
+CSAT (1-5): 4
+
+Q1: What's working well for your team right now?
+A1: For a solo consulting operation, the core tool covers what I need —
+client notes, scheduling, invoicing all in one place. Support has been
+responsive whenever I've run into issues.
+
+Q2: What's the biggest friction point, if any?
+A2: The mobile app logging me out randomly when switching networks has
+been the most annoying part, and it caused a few calendar sync drops too.
+Support says a fix is coming, so I'm hopeful. The itemized invoices are
+also more detail than I need most months.
+
+Q3: Is there anything you wish the product could do that it can't today?
+A3: A dark mode would be nice since I do a lot of late-night work. Also a
+simplified, non-itemized invoice summary would save me a minute or two
+each month — not a big deal, just a nice-to-have.

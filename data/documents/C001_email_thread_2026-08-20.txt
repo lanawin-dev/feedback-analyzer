@@ -1,0 +1,72 @@
+Subject: Re: Re: Re: Q3 planning + renewal check-in
+
+From: Mike Chen <mike.chen@nimbusretail.example>
+To: Sarah Tran <sarah.tran@ourplatform.example>
+Date: 2026-08-18
+
+Hi Sarah,
+
+Following up on our chat last week — wanted to say the new dashboard rollout
+has genuinely changed how our regional managers work, so thank you for all
+the support through that transition.
+
+One small thing the team mentioned: the scheduled-report idea we talked
+about would save me probably 30-40 minutes every Monday. Not urgent, just
+wanted to put it in writing in case it helps prioritize.
+
+Also, are we still on track for the renewal conversation in October?
+
+Best,
+Mike
+
+---
+
+From: Sarah Tran <sarah.tran@ourplatform.example>
+To: Mike Chen <mike.chen@nimbusretail.example>
+Date: 2026-08-19
+
+Hi Mike,
+
+Thanks so much for this, really glad the dashboards are landing well with
+the regional teams — that's exactly the outcome we hoped for.
+
+I've logged the scheduled-report request with our product team as a
+feature request from Nimbus (ref #FR-1187 on our end). I'll let you know
+if/when it's scheduled for a release.
+
+Yes, renewal conversation is still on for October. I'll loop in our
+account manager, Priya, to set up time with you and your finance contact.
+
+Talk soon,
+Sarah
+
+---
+
+From: Mike Chen <mike.chen@nimbusretail.example>
+To: Sarah Tran <sarah.tran@ourplatform.example>
+Date: 2026-08-19
+
+Perfect, thanks Sarah. Looking forward to it — honestly this has been one
+of the smoother vendor relationships we've had, so the renewal should be
+straightforward on our end.
+
+One more thought while I'm here: would it be possible to get an export
+option for the "large" reports (300k+ rows) that shows a progress bar
+instead of just a spinner? Small UX thing but a few of us noticed it.
+
+Mike
+
+---
+
+From: Sarah Tran <sarah.tran@ourplatform.example>
+To: Mike Chen <mike.chen@nimbusretail.example>
+Date: 2026-08-20
+
+Great feedback, adding that to the same product ticket as the scheduling
+request since they're related (export experience for large reports).
+
+Priya will reach out this week to get the renewal call on the calendar.
+
+Thanks again for being such an easy team to work with!
+
+Sarah

@@ -1,0 +1,22 @@
+Customer Satisfaction Survey — Solstice Manufacturing Co
+Respondent: Linda Park (IT Systems Administrator)
+Date: 2026-09-12
+
+CSAT (1-5): 4
+
+Q1: What's working well for your team right now?
+A1: Once we found the bulk user import feature, onboarding new shop-floor
+staff became much faster. Support has also been good about following up
+rather than letting things go quiet.
+
+Q2: What's the biggest friction point, if any?
+A2: Two things: our year-over-year production reports take 15-20 seconds
+to load, which people notice but isn't a dealbreaker. Bigger one is
+authentication — we're still waiting on centralized login through our
+Okta setup, which was flagged as a high-priority item in our last
+security review.
+
+Q3: Is there anything you wish the product could do that it can't today?
+A3: Single sign-on through our corporate identity provider (Okta) is the
+main one, and it's tied to a compliance finding on our end so it's more
+than a convenience request for us at this point.

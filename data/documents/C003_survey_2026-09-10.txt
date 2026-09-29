@@ -1,0 +1,24 @@
+Customer Satisfaction Survey — Brightpath Health Partners
+Respondent: Elaine Foster (Senior Program Coordinator)
+Date: 2026-09-10
+
+CSAT (1-5): 3
+
+Q1: What's working well for your team right now?
+A1: The day-to-day case note workflow still works well for us, and the
+support team continues to be kind and responsive whenever we reach out —
+that hasn't changed.
+
+Q2: What's the biggest friction point, if any?
+A2: I don't want this to sound harsher than it is, but a few of the
+things we've flagged over the past couple of months (single sign-on with
+our Azure AD, audit log exports, and the permissions screen being
+confusing for new staff) are all still unscheduled. Individually each one
+is manageable, but together they're starting to add up, especially with
+our compliance team asking about the SSO timeline more frequently now.
+
+Q3: Is there anything you wish the product could do that it can't today?
+A3: Same items as before, mainly: single sign-on / login through our
+existing hospital network account, and a self-serve audit log export for
+our compliance reviews. Both have come up in more than one internal
+meeting on our side now.

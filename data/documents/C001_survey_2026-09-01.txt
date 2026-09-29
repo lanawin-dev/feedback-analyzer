@@ -1,0 +1,23 @@
+Customer Satisfaction Survey — Nimbus Retail Group
+Respondent: Mike Chen (Operations Manager)
+Date: 2026-09-01
+
+CSAT (1-5): 5
+
+Q1: What's working well for your team right now?
+A1: The dashboards have completely changed how our regional managers
+engage with the data — they log in on their own now instead of asking me
+for screenshots every week. Support has also been consistently fast and
+knowledgeable, which matters a lot to us.
+
+Q2: What's the biggest friction point, if any?
+A2: Honestly nothing major. If I had to name something, exporting our
+biggest quarterly reports (300k+ rows) still feels a little opaque — it
+just spins with no progress indicator, and it'd be nice to schedule those
+reports to send automatically instead of pulling them by hand every
+Monday.
+
+Q3: Is there anything you wish the product could do that it can't today?
+A3: Scheduled/recurring report delivery would be the main one — send the
+weekly ops report to a distribution list automatically. Beyond that we're
+in good shape.

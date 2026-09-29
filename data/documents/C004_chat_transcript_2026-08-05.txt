@@ -1,0 +1,28 @@
+Support chat — Anchor & Vale Consulting
+Agent: Tasha M. (Support)
+Client: Robert Vale (Founder)
+
+Agent: Hi Robert, what can I help with today?
+Client: Hey, so my invoice this month looks different from last month and I can't figure out why.
+Agent: Let me pull that up. Give me one moment.
+Client: Sure. Also separately, the mobile app logged me out again yesterday mid-meeting, that's happened a few times now.
+Agent: Sorry about that, let's tackle the invoice first then circle back. I see last month you were prorated for a mid-cycle upgrade, that's why the totals looked different.
+Client: Ahh okay, that explains it. A line item for that would've saved me the confusion, but fine, mystery solved.
+Agent: That's fair, I'll pass along that proration line items could be clearer on the invoice.
+Client: Appreciate it. On the mobile app thing — is that a known issue?
+Agent: We've had a few similar reports. Are you on iOS or Android?
+Client: iOS, latest version.
+Agent: Okay, I'll flag it to the mobile team. In the meantime, does it happen on wifi, cellular, or both?
+Client: Mostly when I switch networks, like leaving the office and getting in my car.
+Agent: That's helpful context, thank you. I'll note that specifically.
+Client: No worries. Honestly for a one-person consulting shop the app is usually fine, this is just a mild annoyance.
+Agent: Understood, still good to fix though.
+Client: Agreed. Also, kind of a random request — any chance of a dark mode? I use this a lot at night.
+Agent: Ha, that one comes up a lot actually. I'll add your vote to the request.
+Client: Appreciate it. Last thing — my calendar sync dropped two meetings last week, is that connected to the login issue?
+Agent: Possibly related if the session drops mid-sync. I'll have someone from the integrations team take a closer look at your account specifically.
+Client: That'd be great, that one's more annoying than the login thing honestly, I almost missed a client call.
+Agent: Understood, I'll mark that with higher priority given the impact.
+Client: Thanks Tasha, appreciate you sorting through all of this.
+Agent: Of course, I'll follow up once I hear back on the calendar sync.
+Client: Sounds good, talk soon.
