@@ -48,15 +48,13 @@ revenue-weighted priority.
 
 ## Screenshots
 
-*(placeholders — drop PNGs into `docs/screenshots/` and they'll render here)*
-
 | Overview | Client detail |
 |---|---|
-| ![Overview tab](docs/screenshots/overview.png) | ![Client detail tab](docs/screenshots/client.png) |
+| ![Overview tab](docs/screenshots/overview.png) | ![Client detail tab](docs/screenshots/client_card.png) |
 
 | Product report | Upload |
 |---|---|
-| ![Product report tab](docs/screenshots/product_report.png) | ![Upload tab](docs/screenshots/upload.png) |
+| ![Product report tab](docs/screenshots/product_report.png) | ![Upload tab](docs/screenshots/upload_tab.png) |
 
 ## Architecture
 
