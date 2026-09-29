@@ -5,6 +5,9 @@ surveys — into a prioritized, quote-backed action plan for CS and Product
 teams, using Claude for the parts that need judgment and plain Python for
 everything that's just arithmetic.
 
+**🔗 Live demo:** [fbatest.streamlit.app](https://fbatest.streamlit.app/)
+(runs in mock mode — no API key needed to explore it).
+
 ## Why I built this
 
 Every B2B SaaS company sits on customer feedback that never gets read as a
